@@ -1,0 +1,5 @@
+balloon
+school bus
+caterpillar
+horse
+6
