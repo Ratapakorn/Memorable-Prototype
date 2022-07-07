@@ -143,8 +143,8 @@ class Game extends HookWidget {
                   title: Text("You Won!!!"),
                   content: TextButton(onPressed: () async {
                     Navigator.pop(context);
-                    await Navigator.of(context).push(MaterialPageRoute(builder: (context) => gamePage()));
-                  }, child: Icon(Icons.arrow_back_ios),),
+                    await Navigator.of(context).push(MaterialPageRoute(builder: (context) => memG1()));
+                  }, child: Icon(Icons.arrow_back_ios, color: Colors.white, ), style: TextButton.styleFrom(backgroundColor: Colors.black),),
                 );
               });
               //ScaffoldMessenger.of(context).showSnackBar(new SnackBar(content: new Text("Hello")));
