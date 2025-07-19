@@ -1,4 +1,4 @@
-# Memoerable
+# Memorable
 
 Memoerable is a prototype Android application developed as a **capstone project**, designed to assist elderly users who may be at risk of developing Alzheimer’s. The app focuses on providing simple, intuitive tools to support cognitive health, memory, and social connection.
 
